@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://author-p135367-e1341957.adobeaemcloud.com//bin/franklin.delivery/hkoizumi3/casio/main
+  /:
+    url: "https://author-p135367-e1341957.adobeaemcloud.com//bin/franklin.delivery/hkoizumi3/casio/main"
+    type: "markup"
+    suffix: ".html"
